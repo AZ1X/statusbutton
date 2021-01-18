@@ -13,4 +13,4 @@ buttons : [{label : "Button1" , url : "Link1"},{label : "Button2",url : "Link2"}
 }
 })
 })
-client.login({ clientId : "ApplicationID" }).catch(console.error);
+client.login({ clientId : "800640008523612210" }).catch(console.error);
